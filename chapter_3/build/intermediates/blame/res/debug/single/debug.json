@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\layout_activity_nav.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\layout\\activity_nav.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\layout_activity_third.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\layout\\activity_third.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\anim_translate.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\layout_content_layout2.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\layout\\content_layout2.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\layout_activity_test.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\layout_content_layout.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\layout\\content_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\layout_demo_2.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\layout\\demo_2.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\drawable_edit.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\layout_demo_1.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\layout\\demo_1.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\layout_activity_test_two_layer_conflict.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\layout\\activity_test_two_layer_conflict.xml"
+    },
+    {
+        "merged": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\build\\intermediates\\res\\merged\\debug\\layout_content_list_item.xml.flat",
+        "source": "E:\\Android\\Stu_W\\MyStudy\\chapter_3\\src\\main\\res\\layout\\content_list_item.xml"
+    }
+]

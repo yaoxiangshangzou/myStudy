@@ -1,0 +1,76 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ryg.chapter_4"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="25" />
+9-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:8:5-37:19
+12        android:allowBackup="true"
+12-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:9:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.0] E:\Android\.gradle\caches\transforms-2\files-2.1\44c3154c8dbe95b79cb28e75a126c7d7\core-1.3.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_launcher"
+15-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:10:9-45
+16        android:label="@string/app_name"
+16-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:11:9-41
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:12:9-40
+19        <activity
+19-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:13:9-17:45
+20            android:name="com.ryg.chapter_4.TestActivity"
+20-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:14:13-41
+21            android:configChanges="orientation|screenSize"
+21-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:15:13-59
+22            android:label="@string/app_name"
+22-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:16:13-45
+23            android:launchMode="standard" />
+23-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:17:13-42
+24        <activity
+24-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:18:9-22:45
+25            android:name="com.ryg.chapter_4.DemoActivity_1"
+25-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:19:13-43
+26            android:configChanges="screenLayout"
+26-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:20:13-49
+27            android:label="@string/title_scene_1"
+27-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:21:13-50
+28            android:launchMode="standard" />
+28-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:22:13-42
+29        <activity
+29-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:23:9-27:45
+30            android:name="com.ryg.chapter_4.DemoActivity_2"
+30-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:24:13-43
+31            android:configChanges="screenLayout"
+31-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:25:13-49
+32            android:label="@string/app_name"
+32-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:26:13-45
+33            android:launchMode="standard" />
+33-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:27:13-42
+34        <activity
+34-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:28:9-36:20
+35            android:name="com.ryg.chapter_4.MainActivity"
+35-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:29:13-41
+36            android:label="@string/app_name" >
+36-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:30:13-45
+37            <intent-filter>
+37-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:31:13-35:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:32:17-69
+38-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:32:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:34:17-77
+40-->E:\Android\Stu_W\MyStudy\chapter_4\src\main\AndroidManifest.xml:34:27-74
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>
