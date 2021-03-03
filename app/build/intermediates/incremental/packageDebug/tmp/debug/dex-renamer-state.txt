@@ -1,0 +1,4 @@
+#Fri Jan 29 17:19:20 CST 2021
+base.0=E\:\\Android\\Stu_W\\MyStudy\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

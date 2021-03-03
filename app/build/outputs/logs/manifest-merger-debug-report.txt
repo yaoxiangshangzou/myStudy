@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/c4f40c4ccd7895c452898da1f39d9cec/databinding-adapters-3.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/3415295ea9a2790a819c087cec5d4f0d/databinding-runtime-3.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/87dc5624e72cbba2500a189fb166b631/rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6d1fb4b20a2158bd1a31161cbf84131e/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/196dd779b21726f5846a9fad8d263a80/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6ed5a6b8f118a01ecf58bbf743e132e7/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/dcac9170f1304968357a77d6a6e9e111/core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/08eae7ea73543c7803f18b9b3ff6ec9d/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/808b82b3603f7d142582140b5bdf483d/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/fdee753ea20d45793c826a8de6b68430/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.nex3z:flow-layout:1.3.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/361596b99a80c56320e36f6efc694f40/flow-layout-1.3.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:10.2.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/84c4db4e6922265a1c602b7106da7385/butterknife-10.2.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/877f5dacc69dc4816ea22845d7629a82/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/5527951595f8d6df5f3f1081d4560805/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/243ab4cb4f0dcaf7e4ccb793a542a762/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/f8d02efad71067e6bb42d8e2e440086d/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/305a1e88b7ddcdadafa6e32221070845/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ce7e92f013fb605f7607b87106c8cb7e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ad1e79354182e591dd5feee912f57500/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6b0086e6a10e6fdff48a7902f1412fd8/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ac22da783c91efe78d20e27bdedb618e/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/e1159f92f8e2b18ff7f98b445d8cf25f/butterknife-runtime-10.2.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/cb46b9ffb57d11c91c437fe488c39166/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/bdf41d4b350de00bcddeab728e56d7ca/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/eb020731a63df099f62aaf186f42a219/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/3211925c39a2f67a32ac9b802109b9a3/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ea55337b38bfb3a4c981f23bc2206b0d/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/e9a8b3fbf4fdd52a09f3b0a712853dd3/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6ac4257f808a88cc5cff5bca554936de/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/7d0214990ce10a54109df3c23c593be8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/53b5967fccef705e12df503248c54df3/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/7e74b59ec4226b8a76a8837fd069dfef/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ecc3770ed71cdafa69f43e45fa3fb3b9/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/31fb465955f24f1f1ad2aa7634e750b3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/c2e7817cdc8dcf508d6824826a89754c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/e8b55ec6052d6a317168680fd7a4262a/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:5:5-50:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6d1fb4b20a2158bd1a31161cbf84131e/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6d1fb4b20a2158bd1a31161cbf84131e/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/196dd779b21726f5846a9fad8d263a80/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/196dd779b21726f5846a9fad8d263a80/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/eb020731a63df099f62aaf186f42a219/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/eb020731a63df099f62aaf186f42a219/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ea55337b38bfb3a4c981f23bc2206b0d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ea55337b38bfb3a4c981f23bc2206b0d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/eb020731a63df099f62aaf186f42a219/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.shj.mystudy.ui.ChangeColorActivity
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:12:9-69
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:12:19-57
+activity#com.shj.mystudy.ui.touchEvent.ViewTouchEventActivity
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:13:9-74
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:13:19-71
+activity#com.shj.mystudy.ui.touchEvent.ViewGroupTouchEventActivity
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:14:9-79
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:14:19-76
+activity#com.shj.mystudy.ui.IdleHandlerActivity
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:15:9-60
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:15:19-57
+activity#com.shj.mystudy.ui.HandlerActivity
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:16:9-56
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:16:19-53
+activity#com.shj.mystudy.ui.AsyncLayoutInflaterActivity
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:17:9-68
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:17:19-65
+activity#com.shj.mystudy.ui.ThreadActivity
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:18:9-55
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:18:19-52
+activity#com.shj.mystudy.ui.MainActivity
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:19:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.shj.mystudy.ui.RxJavaActivity
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:26:9-55
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:26:19-52
+activity#com.shj.mystudy.ui.AuthorizationLoginActivity
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:27:9-49:20
+	android:launchMode
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:29:13-44
+	android:taskAffinity
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:28:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:com.kx.bapp+data:path:/sign+data:scheme:kx
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:39:13-48:29
+data
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:40:17-43:43
+	android:path
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:42:21-41
+	android:host
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:41:21-47
+	android:scheme
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:43:21-40
+action#android.intent.action.VIEW
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml:47:27-73
+uses-sdk
+INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/c4f40c4ccd7895c452898da1f39d9cec/databinding-adapters-3.5.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/c4f40c4ccd7895c452898da1f39d9cec/databinding-adapters-3.5.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/3415295ea9a2790a819c087cec5d4f0d/databinding-runtime-3.5.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/3415295ea9a2790a819c087cec5d4f0d/databinding-runtime-3.5.3/AndroidManifest.xml:22:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/87dc5624e72cbba2500a189fb166b631/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/87dc5624e72cbba2500a189fb166b631/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6d1fb4b20a2158bd1a31161cbf84131e/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6d1fb4b20a2158bd1a31161cbf84131e/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/196dd779b21726f5846a9fad8d263a80/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/196dd779b21726f5846a9fad8d263a80/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6ed5a6b8f118a01ecf58bbf743e132e7/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6ed5a6b8f118a01ecf58bbf743e132e7/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/dcac9170f1304968357a77d6a6e9e111/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/dcac9170f1304968357a77d6a6e9e111/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/08eae7ea73543c7803f18b9b3ff6ec9d/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/08eae7ea73543c7803f18b9b3ff6ec9d/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/808b82b3603f7d142582140b5bdf483d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/808b82b3603f7d142582140b5bdf483d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/fdee753ea20d45793c826a8de6b68430/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/fdee753ea20d45793c826a8de6b68430/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.nex3z:flow-layout:1.3.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/361596b99a80c56320e36f6efc694f40/flow-layout-1.3.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.nex3z:flow-layout:1.3.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/361596b99a80c56320e36f6efc694f40/flow-layout-1.3.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:10.2.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/84c4db4e6922265a1c602b7106da7385/butterknife-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/84c4db4e6922265a1c602b7106da7385/butterknife-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/877f5dacc69dc4816ea22845d7629a82/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/877f5dacc69dc4816ea22845d7629a82/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/5527951595f8d6df5f3f1081d4560805/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/5527951595f8d6df5f3f1081d4560805/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/243ab4cb4f0dcaf7e4ccb793a542a762/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/243ab4cb4f0dcaf7e4ccb793a542a762/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/f8d02efad71067e6bb42d8e2e440086d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/f8d02efad71067e6bb42d8e2e440086d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/305a1e88b7ddcdadafa6e32221070845/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/305a1e88b7ddcdadafa6e32221070845/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ce7e92f013fb605f7607b87106c8cb7e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ce7e92f013fb605f7607b87106c8cb7e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ad1e79354182e591dd5feee912f57500/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ad1e79354182e591dd5feee912f57500/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6b0086e6a10e6fdff48a7902f1412fd8/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6b0086e6a10e6fdff48a7902f1412fd8/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ac22da783c91efe78d20e27bdedb618e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ac22da783c91efe78d20e27bdedb618e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/e1159f92f8e2b18ff7f98b445d8cf25f/butterknife-runtime-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/e1159f92f8e2b18ff7f98b445d8cf25f/butterknife-runtime-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/cb46b9ffb57d11c91c437fe488c39166/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/cb46b9ffb57d11c91c437fe488c39166/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/bdf41d4b350de00bcddeab728e56d7ca/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/bdf41d4b350de00bcddeab728e56d7ca/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/eb020731a63df099f62aaf186f42a219/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/eb020731a63df099f62aaf186f42a219/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/3211925c39a2f67a32ac9b802109b9a3/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/3211925c39a2f67a32ac9b802109b9a3/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ea55337b38bfb3a4c981f23bc2206b0d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ea55337b38bfb3a4c981f23bc2206b0d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/e9a8b3fbf4fdd52a09f3b0a712853dd3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/e9a8b3fbf4fdd52a09f3b0a712853dd3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6ac4257f808a88cc5cff5bca554936de/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/6ac4257f808a88cc5cff5bca554936de/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/7d0214990ce10a54109df3c23c593be8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/7d0214990ce10a54109df3c23c593be8/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/53b5967fccef705e12df503248c54df3/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/53b5967fccef705e12df503248c54df3/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/7e74b59ec4226b8a76a8837fd069dfef/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/7e74b59ec4226b8a76a8837fd069dfef/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ecc3770ed71cdafa69f43e45fa3fb3b9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/ecc3770ed71cdafa69f43e45fa3fb3b9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/31fb465955f24f1f1ad2aa7634e750b3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/31fb465955f24f1f1ad2aa7634e750b3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/c2e7817cdc8dcf508d6824826a89754c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/c2e7817cdc8dcf508d6824826a89754c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/e8b55ec6052d6a317168680fd7a4262a/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/huajiesun/.gradle/caches/transforms-2/files-2.1/e8b55ec6052d6a317168680fd7a4262a/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huajiesun/Android/WorkS/Studio/MyStudy/app/src/main/AndroidManifest.xml

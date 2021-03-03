@@ -1,0 +1,5 @@
+rootProject.name='MyStudy'
+include ':app', ':multiThread_learning'
+include ':chapter_3'
+include ':javaLib'
+include ':chapter_4'
