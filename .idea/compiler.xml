@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="MyStudy.chapter_3" target="1.8" />
+      <module name="MyStudy.chapter_4" target="1.8" />
+      <module name="MyStudy.designMode" target="1.8" />
+      <module name="MyStudy.multiThread_learning" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

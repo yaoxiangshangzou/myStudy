@@ -1,3 +1,4 @@
+include ':designMode'
 rootProject.name='MyStudy'
 include ':app', ':multiThread_learning'
 include ':chapter_3'
